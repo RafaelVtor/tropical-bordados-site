@@ -1,0 +1,11 @@
+.body-inicio {
+  background: url("../../images/inicio2.png") no-repeat center fixed green;
+  background-size: cover;
+
+  opacity: 0.9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 120px;
+  padding-right: 120px;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tropical-bordados-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RafaelVtor/tropical-bordados-site.git",
+  "author": "RafaelVtor <rafaelvitor_as@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next-images": "^1.6.2",
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  } 
+} 

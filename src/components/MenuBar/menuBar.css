@@ -1,0 +1,24 @@
+div .menu-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 10px 20px 10px 20px;
+  background-color: #dd7bc2;
+}
+
+div .menu-bar img {
+  padding: 4px;
+}
+
+div .menu-list {
+  display: flex;
+  align-items: center;
+}
+div .menu-list li a {
+  margin: 10px;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  text-shadow: #000000 4px 4px 4px;
+  text-decoration-line: none;
+}
